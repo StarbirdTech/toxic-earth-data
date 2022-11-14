@@ -7,7 +7,7 @@ def getPos(loc, cord):
     return float(str(countryPos[loc][cord]).replace('{', '').replace('}', ''))
 
 
-data = pd.read_csv('co2/input-data/Co2Data.csv').to_numpy()
+data = pd.read_csv('co2/input-data/Co2Data.csv').dropna().to_numpy()
 
 for year in range(1750, 2021):
     yearData = data[np.where(data[:, 1] == year)]

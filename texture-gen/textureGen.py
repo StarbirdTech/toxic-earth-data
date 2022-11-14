@@ -16,19 +16,29 @@ def clamp(num, min_value, max_value):
 target = "co2"
 
 for file in os.listdir(f'{target}/output-data/'):
+    #print(file.split(".", 1)[0])
     data = pd.read_csv(f'{target}/output-data/{file}').to_numpy()
-    data[data == ''] = 0
 
     im = Image.new("L", (800, 400))
     draw = ImageDraw.Draw(im)
 
-    for i in range(len(data)):
-        try:
-            draw.point((myMap(data[i][1], -180, 180, 0, 800), myMap(data[i][0], 90, -90,
-                                                                    0, 400)), fill=int(myMap(clamp(math.log(data[i][2]/1000+1), 0, 1), 0, .7, 0, 255)))
-        except:
-            print(f'Invalid data at {i}')
+    dataMin = np.min(data, axis=0)[2]
+    dataMax = np.max(data, axis=0)[2]
 
-    im.save(f'{target}/output-textures/{file.split()}.png')
+    for year in data:
+        #light = (year[2]**2/max(year[2], 0)+0)/dataMax*255
+        # print(light)
+        # print(np.array((data-min(data))**2))
+        # print(year[2])
+        #  print(np.array(((data)**2)/max((data-min(data)))) +
+        #      min(data)[i]/max(data)*255)
+        # print(myMap(np.array(((data-min(data))**2) /
+        #      max((data-min(data))))+min(data)[i]))
 
-    int(myMap(data[i][2], 0, data[:, 2].max(), 0, 255))
+        draw.point((myMap(year[1], -180, 180, 0, 800), myMap(year[0],
+                                                             90, -90, 0, 400)), fill=int(myMap(year[2], 0, 500, 0, 255)))
+
+    im.save(f'{target}/output-textures/{file.split(".", 1)[0]}.png')
+
+    # int(myMap(data[i][2], 0, data[:, 2].max(), 0, 255))
+    # expData = np.array(((data-min(data))**2)/max((data-min(data))))+min(data)
