@@ -1,9 +1,8 @@
 import ozon3 as ooo
 import pandas as pd
 import numpy as np
-import json
 
-names = [
+cities = [
     "Shanghai", "Beijing", "Tianjin", "Guangzhou", "Shenzhen", "Wuhan", "Dongguan", "Chongqing", "Chengdu", "Nanjing", "Taipei", "Kaohsiung", "Taichung",
     "tainan", "banqiao", "hsinchu", "taoyuan-city", "Keelung", "Hong Kong", "Macao", "Hanyang", "Busan", "Incheon", "Daejeon", "Ulsan", "Daegu", "Gwangju",
     "Suwon", "Goyang", "Seongnam", "Edo", "Yokohama", "Osaka", "Nagoya", "Sapporo", "Kobe", "Kyoto", "Fukuoka", "Kawasaki", "saitama", "Moscow", "Krasnoyarsk",
@@ -42,16 +41,32 @@ names = [
     'Jeddah', 'Medina', 'Riyadh', 'Mecca', 'sultanah', 'Dammam', 'Taif', 'tabuk', 'Karachi', 'Lahore', 'Rawalpindi', 'Peshawar', 'Kabul', 'Ashgabat', 'Cape Town', 'Durban',
     'Soweto', 'Pretoria', 'Port Elizabeth', 'Pietermaritzburg', 'benoni', 'Addis Ababa', 'Nairobi', 'Kampala', 'Algiers', 'Bamako'
 ]
-data = []
+datesTemp = []
+aqiTemp = []
 
 o3 = ooo.Ozon3('c9978475a94b889bdfa222c395fbcdf4ea019959')
-for name in names:
+for city in cities:
     try:
-        data.append(o3.get_historical_data(name))
+        stations = o3.get_city_station_options(city).iloc[:, 0]
     except:
-        print(name + " does not exist")
+        print(f'❌  No stations in {city}')
 
-print(data)
+    stations = stations.to_numpy()
+
+    for station in stations:
+        stationData = o3.get_historical_data(
+            city_id=station).dropna(axis=0, thresh=6).fillna(0).to_numpy()
+        #stationData = stationData[~np.isnan(stationData).any(axis=1)]
+
+        dates = stationData[:, 0]
+        aqi = np.amax(stationData[:, 1:], axis=1)
+
+        datesTemp.append(dates)
+        aqiTemp.append(aqiTemp)
+
+yearData = data[np.where(data[:, 1] == year)]
+
+# print(data)
 
 # cities = pd.read_csv('data.csv').to_numpy()[:, 0]
 
