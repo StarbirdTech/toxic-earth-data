@@ -43,6 +43,7 @@ cities = [
 ]
 datesTemp = []
 aqiTemp = []
+stationLoc = []
 
 o3 = ooo.Ozon3('c9978475a94b889bdfa222c395fbcdf4ea019959')
 for city in cities:
@@ -64,10 +65,6 @@ for city in cities:
         datesTemp.append(dates)
         aqiTemp.append(aqiTemp)
 
-yearData = data[np.where(data[:, 1] == year)]
+data = np.concatenate((datesTemp, aqi),axis=1)
 
-# print(data)
-
-# cities = pd.read_csv('data.csv').to_numpy()[:, 0]
-
-# print(cities)
+pd.DataFrame(data).to_csv(f'aqi/output-data/data.csv', index=False, header=["date", "aqi"])
