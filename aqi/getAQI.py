@@ -1,6 +1,8 @@
+from importlib.machinery import SourceFileLoader
 import ozon3 as ooo
 import pandas as pd
 import numpy as np
+import json
 
 cities = [
     "Shanghai", "Beijing", "Tianjin", "Guangzhou", "Shenzhen", "Wuhan", "Dongguan", "Chongqing", "Chengdu", "Nanjing", "Taipei", "Kaohsiung", "Taichung",
@@ -41,30 +43,54 @@ cities = [
     'Jeddah', 'Medina', 'Riyadh', 'Mecca', 'sultanah', 'Dammam', 'Taif', 'tabuk', 'Karachi', 'Lahore', 'Rawalpindi', 'Peshawar', 'Kabul', 'Ashgabat', 'Cape Town', 'Durban',
     'Soweto', 'Pretoria', 'Port Elizabeth', 'Pietermaritzburg', 'benoni', 'Addis Ababa', 'Nairobi', 'Kampala', 'Algiers', 'Bamako'
 ]
-datesTemp = []
-aqiTemp = []
+
+geocode = SourceFileLoader('geocode', 'geocode.py').load_module()
+
+targetFolder = 'aqi'
+
 stationLoc = []
 
 o3 = ooo.Ozon3('c9978475a94b889bdfa222c395fbcdf4ea019959')
 for city in cities:
     try:
-        stations = o3.get_city_station_options(city).iloc[:, 0]
+        stations = o3.get_city_station_options(city)
     except:
         print(f'❌  No stations in {city}')
+    else:
+        stations = stations.to_numpy()
+        
+        for station in stations:
+            stationData = o3.get_historical_data(city_id=station[0]).dropna(axis=0, thresh=6).fillna(0).to_numpy()
+            
+            finalStationData = np.column_stack(
+                (np.full(len(stationData), station[2][0]), stationData[:, 0], np.amax(stationData[:, 1:], axis=1)))
+            
+            #try:
+            #    data = np.row_stack((data, finalStationData))
+            #    print(f'{station[2][0]} written to data')
+            #except:
+            #    data = finalStationData
+            #    print('using finalStationData')
 
-    stations = stations.to_numpy()
+            pd.DataFrame(finalStationData).to_csv(f'aqi/output-data/{station[0]}.csv',index=False, header=["location","date", "aqi"])
+            print(f'{station[2][0]} written to data')
 
-    for station in stations:
-        stationData = o3.get_historical_data(
-            city_id=station).dropna(axis=0, thresh=6).fillna(0).to_numpy()
-        #stationData = stationData[~np.isnan(stationData).any(axis=1)]
-
-        dates = stationData[:, 0]
-        aqi = np.amax(stationData[:, 1:], axis=1)
-
-        datesTemp.append(dates)
-        aqiTemp.append(aqiTemp)
-
-data = np.concatenate((datesTemp, aqi),axis=1)
-
-pd.DataFrame(data).to_csv(f'aqi/output-data/data.csv', index=False, header=["date", "aqi"])
+#if input('Check geocode data?') == 'y':
+#    with open(f'{targetFolder}/geocode/inputData.json', "w") as outfile:
+#        json.dump(np.unique(data[:, 0]).tolist(), outfile)
+#
+#    geocode.geocode(targetFolder, warnSkip=True)
+#
+#geocodeData = json.load(open(f'{targetFolder}/geocode/outputData.json'))
+#
+#for year in range(1750, 2021):
+#    yearData = data[np.where(data[:, 1] == year)]
+#    for i, info in enumerate(yearData):
+#        yearData[i, 1] = geocodeData[info[0]]['lon']
+#        yearData[i, 0] = geocodeData[info[0]]['lat']
+#    pd.DataFrame(yearData).to_csv(
+#        f'{targetFolder}/output-data/{year}.csv', index=False, header=["lat", "lon", "co2"])
+#
+print('✔  All Data Saved')
+#
+##pd.DataFrame(data).to_csv(f'aqi/output-data/data.csv', index=False, header=["date", "aqi"])
