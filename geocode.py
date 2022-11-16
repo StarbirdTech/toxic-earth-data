@@ -22,14 +22,12 @@ def geocode(targetFolder, warnSkip=False):
     outputData = {}
 
     for location in inputData:
-        geocodedLocation = geolocator.geocode(location)
-
         try:
             outputData[location] = outputDataLoaded[location]
             print('loaded from output')
         except:
-            print
             try:
+                geocodedLocation = geolocator.geocode(location)
                 outputData[location] = {
                     "lat": geocodedLocation.latitude, "lon": geocodedLocation.longitude}
                 print('loaded from api')
@@ -42,26 +40,26 @@ def geocode(targetFolder, warnSkip=False):
                 else:
                     print(f'🎉  Manual data auto-loaded for {location}')
     print('data load done')
-    for location in stationPosManualToSet:
-        while True:
-            userInput = input(
-                f'Enter lat & lon for {location} separated by a comma\nExample: 19.8,20.95\n')
-            result = userInput.split(',')
-            try:
-                lat = float(result[0])
-                lon = float(result[1])
-            except:
-                print(f'{userInput} is not valid, please only enter numbers')
+    #for location in stationPosManualToSet:
+    #    while True:
+    #        userInput = input(
+    #            f'Enter lat & lon for {location} separated by a comma\nExample: 19.8,20.95\n')
+    #        result = userInput.split(',')
+    #        try:
+    #            lat = float(result[0])
+    #            lon = float(result[1])
+    #        except:
+    #            print(f'{userInput} is not valid, please only enter numbers')
 
-            if input(f'Location Name: {location}\nLat: {result[0]}\nLon: {result[1]}\nPress "y" to confirm:\n') == 'y':
-                outputData[location] = manualData[location] = {"lat": lat, "lon": lon}
-                print(f'✔  {location} data set')
-                break
-            else:
-                if warnSkip:
-                    print('⚠ Skipping items may cause unexpected behavior')
-                if input("s to skip") == 's':
-                    break
+    #        if input(f'Location Name: {location}\nLat: {result[0]}\nLon: {result[1]}\nPress "y" to confirm:\n') == 'y':
+    #            outputData[location] = manualData[location] = {"lat": lat, "lon": lon}
+    #            print(f'✔  {location} data set')
+    #            break
+    #        else:
+    #            if warnSkip:
+    #                print('⚠ Skipping items may cause unexpected behavior')
+    #            if input("s to skip") == 's':
+    #                break
 
     print('🥳  Data Ready  🥳')
 

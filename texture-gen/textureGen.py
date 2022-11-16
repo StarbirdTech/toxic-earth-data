@@ -20,8 +20,8 @@ target = "co2"
 
 allData = np.array([np.array([0,0,0])])
 
-for file in os.listdir(f'{target}/output-data/'):
-    allData = np.concatenate((allData, pd.read_csv(f'{target}/output-data/{file}').to_numpy()), axis=0)
+for file in os.listdir(f'{target}/final-output-data/'):
+    allData = np.concatenate((allData, pd.read_csv(f'{target}/final-output-data/{file}').to_numpy()), axis=0)
 
 allData = allData[1:]
 
@@ -36,8 +36,10 @@ dataMax = np.max(co2data)
 
 rowCount = 0
 
-for file in os.listdir(f'{target}/output-data/'):
-    data = pd.read_csv(f'{target}/output-data/{file}').to_numpy()
+print(os.listdir(f'{target}/final-output-data/'))
+
+for file in os.listdir(f'{target}/final-output-data/'):
+    data = pd.read_csv(f'{target}/final-output-data/{file}').to_numpy()
 
     im = Image.new("L", (800, 400))
     draw = ImageDraw.Draw(im)
