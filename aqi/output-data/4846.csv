@@ -11,7 +11,6 @@ location,date,aqi
 "Nishijin, Fukuoka, Japan",2022-03-10,79.0
 "Nishijin, Fukuoka, Japan",2022-03-09,55.0
 "Nishijin, Fukuoka, Japan",2022-03-08,58.0
-"Nishijin, Fukuoka, Japan",2022-03-06,72.0
 "Nishijin, Fukuoka, Japan",2022-03-04,53.0
 "Nishijin, Fukuoka, Japan",2022-03-03,61.0
 "Nishijin, Fukuoka, Japan",2022-03-02,55.0
@@ -36,8 +35,8 @@ location,date,aqi
 "Nishijin, Fukuoka, Japan",2022-02-10,35.0
 "Nishijin, Fukuoka, Japan",2022-02-09,37.0
 "Nishijin, Fukuoka, Japan",2022-02-08,35.0
-"Nishijin, Fukuoka, Japan",2022-02-06,46.0
 "Nishijin, Fukuoka, Japan",2022-02-03,89.0
+"Nishijin, Fukuoka, Japan",2022-02-02,64.0
 "Nishijin, Fukuoka, Japan",2022-01-31,30.0
 "Nishijin, Fukuoka, Japan",2022-01-30,33.0
 "Nishijin, Fukuoka, Japan",2022-01-29,72.0
@@ -676,7 +675,6 @@ location,date,aqi
 "Nishijin, Fukuoka, Japan",2019-10-10,45.0
 "Nishijin, Fukuoka, Japan",2019-10-09,39.0
 "Nishijin, Fukuoka, Japan",2019-10-08,43.0
-"Nishijin, Fukuoka, Japan",2019-10-07,29.0
 "Nishijin, Fukuoka, Japan",2019-10-05,45.0
 "Nishijin, Fukuoka, Japan",2019-10-04,34.0
 "Nishijin, Fukuoka, Japan",2019-10-03,46.0
@@ -962,7 +960,6 @@ location,date,aqi
 "Nishijin, Fukuoka, Japan",2018-10-11,57.0
 "Nishijin, Fukuoka, Japan",2018-10-10,42.0
 "Nishijin, Fukuoka, Japan",2018-10-09,37.0
-"Nishijin, Fukuoka, Japan",2018-10-08,41.0
 "Nishijin, Fukuoka, Japan",2018-10-07,35.0
 "Nishijin, Fukuoka, Japan",2018-10-06,32.0
 "Nishijin, Fukuoka, Japan",2018-10-02,34.0
