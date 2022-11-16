@@ -16,20 +16,23 @@ def clamp(num, min_value, max_value):
 def scaleLog(a, mini, maxi, factor):
     return np.round((a-mini)*np.power(a/maxi, 1/factor)+mini)
 
-target = "co2"
 
-allData = np.array([np.array([0,0,0])])
+target = "aqi"
+
+allData = np.array([np.array([0, 0, 0])])
 
 for file in os.listdir(f'{target}/final-output-data/'):
-    allData = np.concatenate((allData, pd.read_csv(f'{target}/final-output-data/{file}').to_numpy()), axis=0)
+    allData = np.concatenate((allData, pd.read_csv(
+        f'{target}/final-output-data/{file}').to_numpy()), axis=0)
 
 allData = allData[1:]
 
 print(allData)
 co2data = allData[:, 2]
-#print(co2data)
-expCo2data = np.array((co2data-np.min(co2data))**2) / (np.max(co2data)+np.min(co2data))
-#print(expCo2data)
+# print(co2data)
+expCo2data = np.array((co2data-np.min(co2data))**2) / \
+    (np.max(co2data)+np.min(co2data))
+# print(expCo2data)
 
 dataMin = np.min(co2data)
 dataMax = np.max(co2data)
@@ -59,15 +62,14 @@ for file in os.listdir(f'{target}/final-output-data/'):
         #                     max((data-min(data))))+min(data)[i]))
         x = myMap(data[i, 1], -180, 180, 0, 800)
         y = myMap(data[i, 0], 90, -90, 0, 400)
-        fill = scaleLog(data[i,2],dataMin,dataMax,10)
-        
+        fill = scaleLog(data[i, 2], dataMin, dataMax, 10)
+
         draw.point((x, y), int(fill))
 
         # draw.point((myMap(data[i][1], -180, 180, 0, 800), myMap(data[i][0], 90, -90,
         # 0, 400)), fill=int(myMap((data[i][2]-np.min(co2data))**2) / (np.max(co2data)+np.min(co2data)), 0, np.max(co2data), 0, 255))
-    #im.show()
+    # im.show()
     im.save(f'{target}/output-textures/{file.split(".", 1)[0]}.png')
 
 #     # int(myMap(data[i][2], 0, data[:, 2].max(), 0, 255))
 #     # expData = np.array(((data-min(data))**2)/max((data-min(data))))+min(data)
-
