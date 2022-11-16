@@ -1,4 +1,5 @@
 location,date,aqi
+"North/Taipei City/Daan, Taiwan",2022-11-16,67.0
 "North/Taipei City/Daan, Taiwan",2022-11-15,66.0
 "North/Taipei City/Daan, Taiwan",2022-11-14,62.0
 "North/Taipei City/Daan, Taiwan",2022-11-13,62.0
@@ -133,7 +134,7 @@ location,date,aqi
 "North/Taipei City/Daan, Taiwan",2022-07-04,50.0
 "North/Taipei City/Daan, Taiwan",2022-07-03,36.0
 "North/Taipei City/Daan, Taiwan",2022-07-02,32.0
-"North/Taipei City/Daan, Taiwan",2022-07-01,36.0
+"North/Taipei City/Daan, Taiwan",2022-07-01,15.0
 "North/Taipei City/Daan, Taiwan",2022-06-30,48.0
 "North/Taipei City/Daan, Taiwan",2022-06-29,49.0
 "North/Taipei City/Daan, Taiwan",2022-06-28,57.0
@@ -158,6 +159,7 @@ location,date,aqi
 "North/Taipei City/Daan, Taiwan",2022-06-09,56.0
 "North/Taipei City/Daan, Taiwan",2022-06-08,53.0
 "North/Taipei City/Daan, Taiwan",2022-06-07,52.0
+"North/Taipei City/Daan, Taiwan",2022-06-06,50.0
 "North/Taipei City/Daan, Taiwan",2022-06-05,52.0
 "North/Taipei City/Daan, Taiwan",2022-06-04,50.0
 "North/Taipei City/Daan, Taiwan",2022-06-03,53.0
@@ -252,7 +254,7 @@ location,date,aqi
 "North/Taipei City/Daan, Taiwan",2022-03-04,99.0
 "North/Taipei City/Daan, Taiwan",2022-03-03,117.0
 "North/Taipei City/Daan, Taiwan",2022-03-02,72.0
-"North/Taipei City/Daan, Taiwan",2022-03-01,73.0
+"North/Taipei City/Daan, Taiwan",2022-03-01,34.0
 "North/Taipei City/Daan, Taiwan",2022-02-28,73.0
 "North/Taipei City/Daan, Taiwan",2022-02-27,63.0
 "North/Taipei City/Daan, Taiwan",2022-02-26,58.0
@@ -308,7 +310,6 @@ location,date,aqi
 "North/Taipei City/Daan, Taiwan",2022-01-06,65.0
 "North/Taipei City/Daan, Taiwan",2022-01-05,63.0
 "North/Taipei City/Daan, Taiwan",2022-01-04,80.0
-"North/Taipei City/Daan, Taiwan",2022-01-03,41.0
 "North/Taipei City/Daan, Taiwan",2022-01-02,61.0
 "North/Taipei City/Daan, Taiwan",2022-01-01,70.0
 "North/Taipei City/Daan, Taiwan",2021-12-31,88.0

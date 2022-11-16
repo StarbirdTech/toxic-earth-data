@@ -8,6 +8,7 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2022-11-10,169.0
 "Dongcheng Dongsi, Beijing",2022-11-09,115.0
 "Dongcheng Dongsi, Beijing",2022-11-08,71.0
+"Dongcheng Dongsi, Beijing",2022-11-07,170.0
 "Dongcheng Dongsi, Beijing",2022-11-05,51.0
 "Dongcheng Dongsi, Beijing",2022-11-04,80.0
 "Dongcheng Dongsi, Beijing",2022-11-03,97.0
@@ -43,7 +44,7 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2022-10-04,35.0
 "Dongcheng Dongsi, Beijing",2022-10-03,48.0
 "Dongcheng Dongsi, Beijing",2022-10-02,138.0
-"Dongcheng Dongsi, Beijing",2022-10-01,78.0
+"Dongcheng Dongsi, Beijing",2022-10-01,158.0
 "Dongcheng Dongsi, Beijing",2022-09-30,158.0
 "Dongcheng Dongsi, Beijing",2022-09-29,146.0
 "Dongcheng Dongsi, Beijing",2022-09-28,141.0
@@ -69,7 +70,6 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2022-09-08,98.0
 "Dongcheng Dongsi, Beijing",2022-09-07,51.0
 "Dongcheng Dongsi, Beijing",2022-09-06,30.0
-"Dongcheng Dongsi, Beijing",2022-09-05,97.0
 "Dongcheng Dongsi, Beijing",2022-09-04,95.0
 "Dongcheng Dongsi, Beijing",2022-09-03,66.0
 "Dongcheng Dongsi, Beijing",2022-09-02,57.0
@@ -104,7 +104,6 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2022-08-04,103.0
 "Dongcheng Dongsi, Beijing",2022-08-03,113.0
 "Dongcheng Dongsi, Beijing",2022-08-02,104.0
-"Dongcheng Dongsi, Beijing",2022-08-01,97.0
 "Dongcheng Dongsi, Beijing",2022-07-31,92.0
 "Dongcheng Dongsi, Beijing",2022-07-30,84.0
 "Dongcheng Dongsi, Beijing",2022-07-29,80.0
@@ -160,6 +159,7 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2022-06-09,82.0
 "Dongcheng Dongsi, Beijing",2022-06-08,51.0
 "Dongcheng Dongsi, Beijing",2022-06-07,58.0
+"Dongcheng Dongsi, Beijing",2022-06-06,47.0
 "Dongcheng Dongsi, Beijing",2022-06-05,79.0
 "Dongcheng Dongsi, Beijing",2022-06-04,101.0
 "Dongcheng Dongsi, Beijing",2022-06-03,138.0
@@ -194,6 +194,7 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2022-05-05,115.0
 "Dongcheng Dongsi, Beijing",2022-05-04,98.0
 "Dongcheng Dongsi, Beijing",2022-05-03,82.0
+"Dongcheng Dongsi, Beijing",2022-05-02,54.0
 "Dongcheng Dongsi, Beijing",2022-05-01,41.0
 "Dongcheng Dongsi, Beijing",2022-04-30,120.0
 "Dongcheng Dongsi, Beijing",2022-04-29,55.0
@@ -221,7 +222,6 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2022-04-07,59.0
 "Dongcheng Dongsi, Beijing",2022-04-06,108.0
 "Dongcheng Dongsi, Beijing",2022-04-05,153.0
-"Dongcheng Dongsi, Beijing",2022-04-04,81.0
 "Dongcheng Dongsi, Beijing",2022-04-03,51.0
 "Dongcheng Dongsi, Beijing",2022-04-02,47.0
 "Dongcheng Dongsi, Beijing",2022-03-31,88.0
@@ -247,7 +247,6 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2022-03-10,177.0
 "Dongcheng Dongsi, Beijing",2022-03-09,143.0
 "Dongcheng Dongsi, Beijing",2022-03-08,80.0
-"Dongcheng Dongsi, Beijing",2022-03-07,76.0
 "Dongcheng Dongsi, Beijing",2022-03-06,47.0
 "Dongcheng Dongsi, Beijing",2022-03-05,83.0
 "Dongcheng Dongsi, Beijing",2022-03-04,82.0
@@ -275,13 +274,12 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2022-02-10,124.0
 "Dongcheng Dongsi, Beijing",2022-02-09,59.0
 "Dongcheng Dongsi, Beijing",2022-02-08,41.0
-"Dongcheng Dongsi, Beijing",2022-02-07,31.0
 "Dongcheng Dongsi, Beijing",2022-02-06,28.0
 "Dongcheng Dongsi, Beijing",2022-02-05,29.0
 "Dongcheng Dongsi, Beijing",2022-02-04,31.0
 "Dongcheng Dongsi, Beijing",2022-02-03,45.0
 "Dongcheng Dongsi, Beijing",2022-02-02,29.0
-"Dongcheng Dongsi, Beijing",2022-02-01,36.0
+"Dongcheng Dongsi, Beijing",2022-02-01,27.0
 "Dongcheng Dongsi, Beijing",2022-01-31,166.0
 "Dongcheng Dongsi, Beijing",2022-01-30,89.0
 "Dongcheng Dongsi, Beijing",2022-01-29,56.0
@@ -582,6 +580,7 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2021-04-08,117.0
 "Dongcheng Dongsi, Beijing",2021-04-07,91.0
 "Dongcheng Dongsi, Beijing",2021-04-06,97.0
+"Dongcheng Dongsi, Beijing",2021-04-05,60.0
 "Dongcheng Dongsi, Beijing",2021-04-04,58.0
 "Dongcheng Dongsi, Beijing",2021-04-03,91.0
 "Dongcheng Dongsi, Beijing",2021-04-02,157.0
@@ -764,7 +763,7 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2020-10-04,74.0
 "Dongcheng Dongsi, Beijing",2020-10-03,35.0
 "Dongcheng Dongsi, Beijing",2020-10-02,132.0
-"Dongcheng Dongsi, Beijing",2020-10-01,44.0
+"Dongcheng Dongsi, Beijing",2020-10-01,67.0
 "Dongcheng Dongsi, Beijing",2020-09-30,57.0
 "Dongcheng Dongsi, Beijing",2020-09-29,167.0
 "Dongcheng Dongsi, Beijing",2020-09-28,155.0
@@ -848,7 +847,6 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2020-07-09,102.0
 "Dongcheng Dongsi, Beijing",2020-07-08,102.0
 "Dongcheng Dongsi, Beijing",2020-07-07,91.0
-"Dongcheng Dongsi, Beijing",2020-07-06,99.0
 "Dongcheng Dongsi, Beijing",2020-07-05,117.0
 "Dongcheng Dongsi, Beijing",2020-07-04,129.0
 "Dongcheng Dongsi, Beijing",2020-07-03,91.0
@@ -1115,7 +1113,6 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2019-10-10,93.0
 "Dongcheng Dongsi, Beijing",2019-10-09,54.0
 "Dongcheng Dongsi, Beijing",2019-10-08,124.0
-"Dongcheng Dongsi, Beijing",2019-10-07,76.0
 "Dongcheng Dongsi, Beijing",2019-10-06,34.0
 "Dongcheng Dongsi, Beijing",2019-10-05,45.0
 "Dongcheng Dongsi, Beijing",2019-10-04,147.0
@@ -1205,8 +1202,7 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2019-07-11,122.0
 "Dongcheng Dongsi, Beijing",2019-07-10,87.0
 "Dongcheng Dongsi, Beijing",2019-07-09,81.0
-"Dongcheng Dongsi, Beijing",2019-07-08,72.0
-"Dongcheng Dongsi, Beijing",2019-07-07,47.0
+"Dongcheng Dongsi, Beijing",2019-07-07,48.0
 "Dongcheng Dongsi, Beijing",2019-07-06,85.0
 "Dongcheng Dongsi, Beijing",2019-07-05,112.0
 "Dongcheng Dongsi, Beijing",2019-07-04,109.0
@@ -1842,7 +1838,7 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2017-10-04,64.0
 "Dongcheng Dongsi, Beijing",2017-10-03,57.0
 "Dongcheng Dongsi, Beijing",2017-10-02,135.0
-"Dongcheng Dongsi, Beijing",2017-10-01,190.0
+"Dongcheng Dongsi, Beijing",2017-10-01,82.0
 "Dongcheng Dongsi, Beijing",2017-09-30,132.0
 "Dongcheng Dongsi, Beijing",2017-09-29,86.0
 "Dongcheng Dongsi, Beijing",2017-09-28,95.0
@@ -1928,7 +1924,7 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2017-07-05,124.0
 "Dongcheng Dongsi, Beijing",2017-07-04,139.0
 "Dongcheng Dongsi, Beijing",2017-07-02,166.0
-"Dongcheng Dongsi, Beijing",2017-07-01,118.0
+"Dongcheng Dongsi, Beijing",2017-07-01,150.0
 "Dongcheng Dongsi, Beijing",2017-06-30,125.0
 "Dongcheng Dongsi, Beijing",2017-06-29,157.0
 "Dongcheng Dongsi, Beijing",2017-06-28,145.0
@@ -2017,7 +2013,6 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2017-04-06,138.0
 "Dongcheng Dongsi, Beijing",2017-04-05,188.0
 "Dongcheng Dongsi, Beijing",2017-04-04,202.0
-"Dongcheng Dongsi, Beijing",2017-04-03,155.0
 "Dongcheng Dongsi, Beijing",2017-04-02,87.0
 "Dongcheng Dongsi, Beijing",2017-04-01,58.0
 "Dongcheng Dongsi, Beijing",2017-03-31,164.0
@@ -2485,7 +2480,6 @@ location,date,aqi
 "Dongcheng Dongsi, Beijing",2015-10-04,108.0
 "Dongcheng Dongsi, Beijing",2015-10-03,86.0
 "Dongcheng Dongsi, Beijing",2015-10-02,60.0
-"Dongcheng Dongsi, Beijing",2015-10-01,86.0
 "Dongcheng Dongsi, Beijing",2015-09-30,124.0
 "Dongcheng Dongsi, Beijing",2015-09-29,127.0
 "Dongcheng Dongsi, Beijing",2015-09-28,133.0

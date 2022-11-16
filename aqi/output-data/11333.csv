@@ -8,7 +8,6 @@ location,date,aqi
 "Cheongna, Incheon, South Korea",2022-11-10,106.0
 "Cheongna, Incheon, South Korea",2022-11-09,69.0
 "Cheongna, Incheon, South Korea",2022-11-08,51.0
-"Cheongna, Incheon, South Korea",2022-11-07,46.0
 "Cheongna, Incheon, South Korea",2022-11-05,34.0
 "Cheongna, Incheon, South Korea",2022-11-04,51.0
 "Cheongna, Incheon, South Korea",2022-11-03,45.0
@@ -42,7 +41,6 @@ location,date,aqi
 "Cheongna, Incheon, South Korea",2022-10-06,35.0
 "Cheongna, Incheon, South Korea",2022-10-05,37.0
 "Cheongna, Incheon, South Korea",2022-10-04,39.0
-"Cheongna, Incheon, South Korea",2022-10-03,76.0
 "Cheongna, Incheon, South Korea",2022-10-02,114.0
 "Cheongna, Incheon, South Korea",2022-10-01,105.0
 "Cheongna, Incheon, South Korea",2022-09-30,118.0
@@ -250,12 +248,11 @@ location,date,aqi
 "Cheongna, Incheon, South Korea",2022-03-09,65.0
 "Cheongna, Incheon, South Korea",2022-03-08,58.0
 "Cheongna, Incheon, South Korea",2022-03-07,36.0
-"Cheongna, Incheon, South Korea",2022-03-06,44.0
 "Cheongna, Incheon, South Korea",2022-03-05,114.0
 "Cheongna, Incheon, South Korea",2022-03-04,72.0
 "Cheongna, Incheon, South Korea",2022-03-03,43.0
 "Cheongna, Incheon, South Korea",2022-03-02,63.0
-"Cheongna, Incheon, South Korea",2022-03-01,50.0
+"Cheongna, Incheon, South Korea",2022-03-01,39.0
 "Cheongna, Incheon, South Korea",2022-02-28,54.0
 "Cheongna, Incheon, South Korea",2022-02-27,105.0
 "Cheongna, Incheon, South Korea",2022-02-26,119.0
@@ -281,6 +278,7 @@ location,date,aqi
 "Cheongna, Incheon, South Korea",2022-02-06,36.0
 "Cheongna, Incheon, South Korea",2022-02-05,50.0
 "Cheongna, Incheon, South Korea",2022-02-04,50.0
+"Cheongna, Incheon, South Korea",2022-02-03,56.0
 "Cheongna, Incheon, South Korea",2022-02-02,83.0
 "Cheongna, Incheon, South Korea",2022-02-01,40.0
 "Cheongna, Incheon, South Korea",2022-01-31,55.0
@@ -759,7 +757,7 @@ location,date,aqi
 "Cheongna, Incheon, South Korea",2020-10-04,58.0
 "Cheongna, Incheon, South Korea",2020-10-03,49.0
 "Cheongna, Incheon, South Korea",2020-10-02,46.0
-"Cheongna, Incheon, South Korea",2020-10-01,55.0
+"Cheongna, Incheon, South Korea",2020-10-01,43.0
 "Cheongna, Incheon, South Korea",2020-09-30,63.0
 "Cheongna, Incheon, South Korea",2020-09-29,46.0
 "Cheongna, Incheon, South Korea",2020-09-28,40.0
@@ -843,6 +841,7 @@ location,date,aqi
 "Cheongna, Incheon, South Korea",2020-07-09,101.0
 "Cheongna, Incheon, South Korea",2020-07-08,44.0
 "Cheongna, Incheon, South Korea",2020-07-07,57.0
+"Cheongna, Incheon, South Korea",2020-07-06,76.0
 "Cheongna, Incheon, South Korea",2020-07-05,69.0
 "Cheongna, Incheon, South Korea",2020-07-04,71.0
 "Cheongna, Incheon, South Korea",2020-07-03,117.0
@@ -933,7 +932,6 @@ location,date,aqi
 "Cheongna, Incheon, South Korea",2020-04-09,63.0
 "Cheongna, Incheon, South Korea",2020-04-08,53.0
 "Cheongna, Incheon, South Korea",2020-04-07,70.0
-"Cheongna, Incheon, South Korea",2020-04-06,65.0
 "Cheongna, Incheon, South Korea",2020-04-05,61.0
 "Cheongna, Incheon, South Korea",2020-04-04,70.0
 "Cheongna, Incheon, South Korea",2020-04-03,74.0
@@ -1110,12 +1108,13 @@ location,date,aqi
 "Cheongna, Incheon, South Korea",2019-10-10,35.0
 "Cheongna, Incheon, South Korea",2019-10-09,38.0
 "Cheongna, Incheon, South Korea",2019-10-08,30.0
+"Cheongna, Incheon, South Korea",2019-10-07,23.0
 "Cheongna, Incheon, South Korea",2019-10-06,59.0
 "Cheongna, Incheon, South Korea",2019-10-05,75.0
 "Cheongna, Incheon, South Korea",2019-10-04,44.0
 "Cheongna, Incheon, South Korea",2019-10-03,65.0
 "Cheongna, Incheon, South Korea",2019-10-02,102.0
-"Cheongna, Incheon, South Korea",2019-10-01,101.0
+"Cheongna, Incheon, South Korea",2019-10-01,51.0
 "Cheongna, Incheon, South Korea",2019-09-30,79.0
 "Cheongna, Incheon, South Korea",2019-09-29,68.0
 "Cheongna, Incheon, South Korea",2019-09-28,61.0
@@ -1200,6 +1199,7 @@ location,date,aqi
 "Cheongna, Incheon, South Korea",2019-07-11,36.0
 "Cheongna, Incheon, South Korea",2019-07-10,41.0
 "Cheongna, Incheon, South Korea",2019-07-09,55.0
+"Cheongna, Incheon, South Korea",2019-07-08,57.0
 "Cheongna, Incheon, South Korea",2019-07-07,72.0
 "Cheongna, Incheon, South Korea",2019-07-06,86.0
 "Cheongna, Incheon, South Korea",2019-07-05,61.0
@@ -1296,7 +1296,6 @@ location,date,aqi
 "Cheongna, Incheon, South Korea",2019-04-04,54.0
 "Cheongna, Incheon, South Korea",2019-04-03,44.0
 "Cheongna, Incheon, South Korea",2019-04-02,43.0
-"Cheongna, Incheon, South Korea",2019-04-01,41.0
 "Cheongna, Incheon, South Korea",2019-03-31,61.0
 "Cheongna, Incheon, South Korea",2019-03-30,54.0
 "Cheongna, Incheon, South Korea",2019-03-29,74.0
@@ -1422,6 +1421,7 @@ location,date,aqi
 "Cheongna, Incheon, South Korea",2018-10-11,37.0
 "Cheongna, Incheon, South Korea",2018-10-10,46.0
 "Cheongna, Incheon, South Korea",2018-10-09,36.0
+"Cheongna, Incheon, South Korea",2018-10-08,37.0
 "Cheongna, Incheon, South Korea",2018-10-07,34.0
 "Cheongna, Incheon, South Korea",2018-10-06,30.0
 "Cheongna, Incheon, South Korea",2018-10-05,47.0

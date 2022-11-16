@@ -8,7 +8,6 @@ location,date,aqi
 "Jincheon-dong, Daegu, South Korea",2022-11-10,102.0
 "Jincheon-dong, Daegu, South Korea",2022-11-09,85.0
 "Jincheon-dong, Daegu, South Korea",2022-11-08,75.0
-"Jincheon-dong, Daegu, South Korea",2022-11-07,62.0
 "Jincheon-dong, Daegu, South Korea",2022-11-05,50.0
 "Jincheon-dong, Daegu, South Korea",2022-11-04,85.0
 "Jincheon-dong, Daegu, South Korea",2022-11-03,100.0
@@ -42,7 +41,6 @@ location,date,aqi
 "Jincheon-dong, Daegu, South Korea",2022-10-06,31.0
 "Jincheon-dong, Daegu, South Korea",2022-10-05,34.0
 "Jincheon-dong, Daegu, South Korea",2022-10-04,63.0
-"Jincheon-dong, Daegu, South Korea",2022-10-03,67.0
 "Jincheon-dong, Daegu, South Korea",2022-10-02,71.0
 "Jincheon-dong, Daegu, South Korea",2022-10-01,54.0
 "Jincheon-dong, Daegu, South Korea",2022-09-30,74.0
@@ -221,9 +219,10 @@ location,date,aqi
 "Jincheon-dong, Daegu, South Korea",2022-04-07,66.0
 "Jincheon-dong, Daegu, South Korea",2022-04-06,81.0
 "Jincheon-dong, Daegu, South Korea",2022-04-05,76.0
+"Jincheon-dong, Daegu, South Korea",2022-04-04,62.0
 "Jincheon-dong, Daegu, South Korea",2022-04-03,53.0
 "Jincheon-dong, Daegu, South Korea",2022-04-02,48.0
-"Jincheon-dong, Daegu, South Korea",2022-04-01,31.0
+"Jincheon-dong, Daegu, South Korea",2022-04-01,65.0
 "Jincheon-dong, Daegu, South Korea",2022-03-31,66.0
 "Jincheon-dong, Daegu, South Korea",2022-03-30,61.0
 "Jincheon-dong, Daegu, South Korea",2022-03-29,48.0
@@ -394,6 +393,7 @@ location,date,aqi
 "Jincheon-dong, Daegu, South Korea",2021-10-07,55.0
 "Jincheon-dong, Daegu, South Korea",2021-10-06,54.0
 "Jincheon-dong, Daegu, South Korea",2021-10-05,60.0
+"Jincheon-dong, Daegu, South Korea",2021-10-04,73.0
 "Jincheon-dong, Daegu, South Korea",2021-10-03,72.0
 "Jincheon-dong, Daegu, South Korea",2021-10-02,64.0
 "Jincheon-dong, Daegu, South Korea",2021-10-01,52.0
@@ -575,10 +575,11 @@ location,date,aqi
 "Jincheon-dong, Daegu, South Korea",2021-04-08,72.0
 "Jincheon-dong, Daegu, South Korea",2021-04-07,61.0
 "Jincheon-dong, Daegu, South Korea",2021-04-06,56.0
+"Jincheon-dong, Daegu, South Korea",2021-04-05,49.0
 "Jincheon-dong, Daegu, South Korea",2021-04-04,67.0
 "Jincheon-dong, Daegu, South Korea",2021-04-03,54.0
 "Jincheon-dong, Daegu, South Korea",2021-04-02,55.0
-"Jincheon-dong, Daegu, South Korea",2021-04-01,53.0
+"Jincheon-dong, Daegu, South Korea",2021-04-01,78.0
 "Jincheon-dong, Daegu, South Korea",2021-03-31,60.0
 "Jincheon-dong, Daegu, South Korea",2021-03-30,135.0
 "Jincheon-dong, Daegu, South Korea",2021-03-29,186.0
@@ -843,6 +844,7 @@ location,date,aqi
 "Jincheon-dong, Daegu, South Korea",2020-07-09,76.0
 "Jincheon-dong, Daegu, South Korea",2020-07-08,59.0
 "Jincheon-dong, Daegu, South Korea",2020-07-07,70.0
+"Jincheon-dong, Daegu, South Korea",2020-07-06,58.0
 "Jincheon-dong, Daegu, South Korea",2020-07-05,34.0
 "Jincheon-dong, Daegu, South Korea",2020-07-04,49.0
 "Jincheon-dong, Daegu, South Korea",2020-07-03,66.0
@@ -933,7 +935,6 @@ location,date,aqi
 "Jincheon-dong, Daegu, South Korea",2020-04-09,67.0
 "Jincheon-dong, Daegu, South Korea",2020-04-08,104.0
 "Jincheon-dong, Daegu, South Korea",2020-04-07,73.0
-"Jincheon-dong, Daegu, South Korea",2020-04-06,44.0
 "Jincheon-dong, Daegu, South Korea",2020-04-05,84.0
 "Jincheon-dong, Daegu, South Korea",2020-04-04,74.0
 "Jincheon-dong, Daegu, South Korea",2020-04-03,57.0
@@ -1130,13 +1131,14 @@ location,date,aqi
 "Jincheon-dong, Daegu, South Korea",2019-07-11,29.0
 "Jincheon-dong, Daegu, South Korea",2019-07-10,32.0
 "Jincheon-dong, Daegu, South Korea",2019-07-09,34.0
+"Jincheon-dong, Daegu, South Korea",2019-07-08,43.0
 "Jincheon-dong, Daegu, South Korea",2019-07-07,58.0
 "Jincheon-dong, Daegu, South Korea",2019-07-06,84.0
 "Jincheon-dong, Daegu, South Korea",2019-07-05,87.0
 "Jincheon-dong, Daegu, South Korea",2019-07-04,69.0
 "Jincheon-dong, Daegu, South Korea",2019-07-03,59.0
 "Jincheon-dong, Daegu, South Korea",2019-07-02,72.0
-"Jincheon-dong, Daegu, South Korea",2019-07-01,32.0
+"Jincheon-dong, Daegu, South Korea",2019-07-01,38.0
 "Jincheon-dong, Daegu, South Korea",2019-06-30,58.0
 "Jincheon-dong, Daegu, South Korea",2019-06-29,59.0
 "Jincheon-dong, Daegu, South Korea",2019-06-28,35.0
@@ -1394,7 +1396,6 @@ location,date,aqi
 "Jincheon-dong, Daegu, South Korea",2018-10-11,53.0
 "Jincheon-dong, Daegu, South Korea",2018-10-10,64.0
 "Jincheon-dong, Daegu, South Korea",2018-10-09,30.0
-"Jincheon-dong, Daegu, South Korea",2018-10-08,45.0
 "Jincheon-dong, Daegu, South Korea",2018-10-07,34.0
 "Jincheon-dong, Daegu, South Korea",2018-10-06,30.0
 "Jincheon-dong, Daegu, South Korea",2018-10-05,57.0

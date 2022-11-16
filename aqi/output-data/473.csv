@@ -42,7 +42,7 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2022-10-04,67.0
 "Yongledianzhen, Tongzhou, Beijing",2022-10-03,66.0
 "Yongledianzhen, Tongzhou, Beijing",2022-10-02,160.0
-"Yongledianzhen, Tongzhou, Beijing",2022-10-01,71.0
+"Yongledianzhen, Tongzhou, Beijing",2022-10-01,163.0
 "Yongledianzhen, Tongzhou, Beijing",2022-09-30,169.0
 "Yongledianzhen, Tongzhou, Beijing",2022-09-29,165.0
 "Yongledianzhen, Tongzhou, Beijing",2022-09-28,158.0
@@ -131,7 +131,7 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2022-07-06,68.0
 "Yongledianzhen, Tongzhou, Beijing",2022-07-03,129.0
 "Yongledianzhen, Tongzhou, Beijing",2022-07-02,73.0
-"Yongledianzhen, Tongzhou, Beijing",2022-07-01,76.0
+"Yongledianzhen, Tongzhou, Beijing",2022-07-01,45.0
 "Yongledianzhen, Tongzhou, Beijing",2022-06-30,58.0
 "Yongledianzhen, Tongzhou, Beijing",2022-06-29,60.0
 "Yongledianzhen, Tongzhou, Beijing",2022-06-28,97.0
@@ -156,6 +156,7 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2022-06-09,92.0
 "Yongledianzhen, Tongzhou, Beijing",2022-06-08,53.0
 "Yongledianzhen, Tongzhou, Beijing",2022-06-07,45.0
+"Yongledianzhen, Tongzhou, Beijing",2022-06-06,78.0
 "Yongledianzhen, Tongzhou, Beijing",2022-06-05,121.0
 "Yongledianzhen, Tongzhou, Beijing",2022-06-04,141.0
 "Yongledianzhen, Tongzhou, Beijing",2022-06-03,113.0
@@ -191,7 +192,7 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2022-05-04,108.0
 "Yongledianzhen, Tongzhou, Beijing",2022-05-03,80.0
 "Yongledianzhen, Tongzhou, Beijing",2022-05-02,55.0
-"Yongledianzhen, Tongzhou, Beijing",2022-05-01,39.0
+"Yongledianzhen, Tongzhou, Beijing",2022-05-01,51.0
 "Yongledianzhen, Tongzhou, Beijing",2022-04-30,119.0
 "Yongledianzhen, Tongzhou, Beijing",2022-04-29,51.0
 "Yongledianzhen, Tongzhou, Beijing",2022-04-28,40.0
@@ -218,9 +219,10 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2022-04-07,55.0
 "Yongledianzhen, Tongzhou, Beijing",2022-04-06,113.0
 "Yongledianzhen, Tongzhou, Beijing",2022-04-05,156.0
+"Yongledianzhen, Tongzhou, Beijing",2022-04-04,81.0
 "Yongledianzhen, Tongzhou, Beijing",2022-04-03,77.0
 "Yongledianzhen, Tongzhou, Beijing",2022-04-02,66.0
-"Yongledianzhen, Tongzhou, Beijing",2022-04-01,45.0
+"Yongledianzhen, Tongzhou, Beijing",2022-04-01,58.0
 "Yongledianzhen, Tongzhou, Beijing",2022-03-31,70.0
 "Yongledianzhen, Tongzhou, Beijing",2022-03-30,126.0
 "Yongledianzhen, Tongzhou, Beijing",2022-03-29,89.0
@@ -250,7 +252,7 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2022-03-04,141.0
 "Yongledianzhen, Tongzhou, Beijing",2022-03-03,79.0
 "Yongledianzhen, Tongzhou, Beijing",2022-03-02,46.0
-"Yongledianzhen, Tongzhou, Beijing",2022-03-01,141.0
+"Yongledianzhen, Tongzhou, Beijing",2022-03-01,32.0
 "Yongledianzhen, Tongzhou, Beijing",2022-02-28,105.0
 "Yongledianzhen, Tongzhou, Beijing",2022-02-27,73.0
 "Yongledianzhen, Tongzhou, Beijing",2022-02-26,188.0
@@ -274,11 +276,10 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2022-02-08,54.0
 "Yongledianzhen, Tongzhou, Beijing",2022-02-07,39.0
 "Yongledianzhen, Tongzhou, Beijing",2022-02-06,40.0
-"Yongledianzhen, Tongzhou, Beijing",2022-02-05,33.0
 "Yongledianzhen, Tongzhou, Beijing",2022-02-04,71.0
 "Yongledianzhen, Tongzhou, Beijing",2022-02-03,74.0
 "Yongledianzhen, Tongzhou, Beijing",2022-02-02,42.0
-"Yongledianzhen, Tongzhou, Beijing",2022-02-01,30.0
+"Yongledianzhen, Tongzhou, Beijing",2022-02-01,60.0
 "Yongledianzhen, Tongzhou, Beijing",2022-01-31,181.0
 "Yongledianzhen, Tongzhou, Beijing",2022-01-30,107.0
 "Yongledianzhen, Tongzhou, Beijing",2022-01-29,57.0
@@ -397,10 +398,9 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2021-10-07,34.0
 "Yongledianzhen, Tongzhou, Beijing",2021-10-06,34.0
 "Yongledianzhen, Tongzhou, Beijing",2021-10-05,105.0
-"Yongledianzhen, Tongzhou, Beijing",2021-10-04,124.0
 "Yongledianzhen, Tongzhou, Beijing",2021-10-03,175.0
 "Yongledianzhen, Tongzhou, Beijing",2021-10-02,103.0
-"Yongledianzhen, Tongzhou, Beijing",2021-10-01,40.0
+"Yongledianzhen, Tongzhou, Beijing",2021-10-01,127.0
 "Yongledianzhen, Tongzhou, Beijing",2021-09-30,95.0
 "Yongledianzhen, Tongzhou, Beijing",2021-09-29,92.0
 "Yongledianzhen, Tongzhou, Beijing",2021-09-28,102.0
@@ -488,6 +488,7 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2021-07-08,141.0
 "Yongledianzhen, Tongzhou, Beijing",2021-07-07,72.0
 "Yongledianzhen, Tongzhou, Beijing",2021-07-06,91.0
+"Yongledianzhen, Tongzhou, Beijing",2021-07-05,83.0
 "Yongledianzhen, Tongzhou, Beijing",2021-07-04,60.0
 "Yongledianzhen, Tongzhou, Beijing",2021-07-03,65.0
 "Yongledianzhen, Tongzhou, Beijing",2021-07-02,82.0
@@ -745,6 +746,7 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2020-10-08,134.0
 "Yongledianzhen, Tongzhou, Beijing",2020-10-07,88.0
 "Yongledianzhen, Tongzhou, Beijing",2020-10-06,55.0
+"Yongledianzhen, Tongzhou, Beijing",2020-10-05,22.0
 "Yongledianzhen, Tongzhou, Beijing",2020-10-04,65.0
 "Yongledianzhen, Tongzhou, Beijing",2020-10-03,47.0
 "Yongledianzhen, Tongzhou, Beijing",2020-10-02,115.0
@@ -833,6 +835,7 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2020-07-09,126.0
 "Yongledianzhen, Tongzhou, Beijing",2020-07-08,94.0
 "Yongledianzhen, Tongzhou, Beijing",2020-07-07,81.0
+"Yongledianzhen, Tongzhou, Beijing",2020-07-06,102.0
 "Yongledianzhen, Tongzhou, Beijing",2020-07-05,109.0
 "Yongledianzhen, Tongzhou, Beijing",2020-07-04,110.0
 "Yongledianzhen, Tongzhou, Beijing",2020-07-03,101.0
@@ -1095,7 +1098,6 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2019-10-10,125.0
 "Yongledianzhen, Tongzhou, Beijing",2019-10-09,61.0
 "Yongledianzhen, Tongzhou, Beijing",2019-10-08,132.0
-"Yongledianzhen, Tongzhou, Beijing",2019-10-07,117.0
 "Yongledianzhen, Tongzhou, Beijing",2019-10-06,52.0
 "Yongledianzhen, Tongzhou, Beijing",2019-10-05,70.0
 "Yongledianzhen, Tongzhou, Beijing",2019-10-04,157.0
@@ -1185,7 +1187,6 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2019-07-11,152.0
 "Yongledianzhen, Tongzhou, Beijing",2019-07-10,134.0
 "Yongledianzhen, Tongzhou, Beijing",2019-07-09,95.0
-"Yongledianzhen, Tongzhou, Beijing",2019-07-08,64.0
 "Yongledianzhen, Tongzhou, Beijing",2019-07-07,105.0
 "Yongledianzhen, Tongzhou, Beijing",2019-07-06,134.0
 "Yongledianzhen, Tongzhou, Beijing",2019-07-05,144.0
@@ -1455,7 +1456,6 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2018-10-11,38.0
 "Yongledianzhen, Tongzhou, Beijing",2018-10-10,31.0
 "Yongledianzhen, Tongzhou, Beijing",2018-10-09,88.0
-"Yongledianzhen, Tongzhou, Beijing",2018-10-08,55.0
 "Yongledianzhen, Tongzhou, Beijing",2018-10-07,65.0
 "Yongledianzhen, Tongzhou, Beijing",2018-10-06,166.0
 "Yongledianzhen, Tongzhou, Beijing",2018-10-05,147.0
@@ -1644,7 +1644,7 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2018-04-04,56.0
 "Yongledianzhen, Tongzhou, Beijing",2018-04-03,282.0
 "Yongledianzhen, Tongzhou, Beijing",2018-04-02,262.0
-"Yongledianzhen, Tongzhou, Beijing",2018-04-01,208.0
+"Yongledianzhen, Tongzhou, Beijing",2018-04-01,161.0
 "Yongledianzhen, Tongzhou, Beijing",2018-03-31,127.0
 "Yongledianzhen, Tongzhou, Beijing",2018-03-30,110.0
 "Yongledianzhen, Tongzhou, Beijing",2018-03-29,187.0
@@ -1821,7 +1821,7 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2017-10-05,119.0
 "Yongledianzhen, Tongzhou, Beijing",2017-10-04,70.0
 "Yongledianzhen, Tongzhou, Beijing",2017-10-03,41.0
-"Yongledianzhen, Tongzhou, Beijing",2017-10-01,175.0
+"Yongledianzhen, Tongzhou, Beijing",2017-10-01,86.0
 "Yongledianzhen, Tongzhou, Beijing",2017-09-30,137.0
 "Yongledianzhen, Tongzhou, Beijing",2017-09-29,102.0
 "Yongledianzhen, Tongzhou, Beijing",2017-09-28,64.0
@@ -2161,7 +2161,6 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2016-10-04,183.0
 "Yongledianzhen, Tongzhou, Beijing",2016-10-03,257.0
 "Yongledianzhen, Tongzhou, Beijing",2016-10-02,220.0
-"Yongledianzhen, Tongzhou, Beijing",2016-10-01,189.0
 "Yongledianzhen, Tongzhou, Beijing",2016-09-30,150.0
 "Yongledianzhen, Tongzhou, Beijing",2016-09-29,79.0
 "Yongledianzhen, Tongzhou, Beijing",2016-09-28,83.0
@@ -2248,9 +2247,10 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2016-07-07,153.0
 "Yongledianzhen, Tongzhou, Beijing",2016-07-06,171.0
 "Yongledianzhen, Tongzhou, Beijing",2016-07-05,195.0
+"Yongledianzhen, Tongzhou, Beijing",2016-07-04,165.0
 "Yongledianzhen, Tongzhou, Beijing",2016-07-03,131.0
 "Yongledianzhen, Tongzhou, Beijing",2016-07-02,134.0
-"Yongledianzhen, Tongzhou, Beijing",2016-07-01,95.0
+"Yongledianzhen, Tongzhou, Beijing",2016-07-01,171.0
 "Yongledianzhen, Tongzhou, Beijing",2016-06-30,176.0
 "Yongledianzhen, Tongzhou, Beijing",2016-06-28,153.0
 "Yongledianzhen, Tongzhou, Beijing",2016-06-27,130.0
@@ -2337,6 +2337,7 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2016-04-07,178.0
 "Yongledianzhen, Tongzhou, Beijing",2016-04-06,166.0
 "Yongledianzhen, Tongzhou, Beijing",2016-04-05,153.0
+"Yongledianzhen, Tongzhou, Beijing",2016-04-04,82.0
 "Yongledianzhen, Tongzhou, Beijing",2016-04-03,62.0
 "Yongledianzhen, Tongzhou, Beijing",2016-04-02,114.0
 "Yongledianzhen, Tongzhou, Beijing",2016-04-01,134.0
@@ -2603,6 +2604,7 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2015-07-09,177.0
 "Yongledianzhen, Tongzhou, Beijing",2015-07-08,148.0
 "Yongledianzhen, Tongzhou, Beijing",2015-07-07,144.0
+"Yongledianzhen, Tongzhou, Beijing",2015-07-06,138.0
 "Yongledianzhen, Tongzhou, Beijing",2015-07-05,95.0
 "Yongledianzhen, Tongzhou, Beijing",2015-07-04,90.0
 "Yongledianzhen, Tongzhou, Beijing",2015-07-03,68.0
@@ -2863,7 +2865,6 @@ location,date,aqi
 "Yongledianzhen, Tongzhou, Beijing",2014-10-09,339.0
 "Yongledianzhen, Tongzhou, Beijing",2014-10-08,199.0
 "Yongledianzhen, Tongzhou, Beijing",2014-10-07,114.0
-"Yongledianzhen, Tongzhou, Beijing",2014-10-06,81.0
 "Yongledianzhen, Tongzhou, Beijing",2014-10-05,157.0
 "Yongledianzhen, Tongzhou, Beijing",2014-10-04,191.0
 "Yongledianzhen, Tongzhou, Beijing",2014-10-03,154.0

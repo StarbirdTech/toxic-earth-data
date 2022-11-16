@@ -1,4 +1,5 @@
 location,date,aqi
+"North/Taipei City/Jhongjheng, Taiwan",2022-11-16,52.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-11-15,47.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-11-14,42.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-11-13,46.0
@@ -7,6 +8,7 @@ location,date,aqi
 "North/Taipei City/Jhongjheng, Taiwan",2022-11-10,26.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-11-09,29.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-11-08,29.0
+"North/Taipei City/Jhongjheng, Taiwan",2022-11-07,28.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-11-05,34.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-11-04,33.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-11-03,29.0
@@ -40,7 +42,6 @@ location,date,aqi
 "North/Taipei City/Jhongjheng, Taiwan",2022-10-06,38.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-10-05,55.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-10-04,74.0
-"North/Taipei City/Jhongjheng, Taiwan",2022-10-03,37.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-10-02,43.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-10-01,37.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-09-30,33.0
@@ -68,7 +69,6 @@ location,date,aqi
 "North/Taipei City/Jhongjheng, Taiwan",2022-09-08,51.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-09-07,39.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-09-06,42.0
-"North/Taipei City/Jhongjheng, Taiwan",2022-09-05,31.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-09-04,24.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-09-03,23.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-09-02,30.0
@@ -130,6 +130,7 @@ location,date,aqi
 "North/Taipei City/Jhongjheng, Taiwan",2022-07-07,53.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-07-06,36.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-07-05,30.0
+"North/Taipei City/Jhongjheng, Taiwan",2022-07-04,34.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-07-03,30.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-07-02,26.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-07-01,16.0
@@ -157,6 +158,7 @@ location,date,aqi
 "North/Taipei City/Jhongjheng, Taiwan",2022-06-09,32.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-06-08,38.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-06-07,26.0
+"North/Taipei City/Jhongjheng, Taiwan",2022-06-06,27.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-06-05,25.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-06-04,27.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-06-03,28.0
@@ -219,6 +221,7 @@ location,date,aqi
 "North/Taipei City/Jhongjheng, Taiwan",2022-04-07,38.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-04-06,36.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-04-05,40.0
+"North/Taipei City/Jhongjheng, Taiwan",2022-04-04,39.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-04-03,35.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-04-02,51.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-04-01,38.0
@@ -245,13 +248,12 @@ location,date,aqi
 "North/Taipei City/Jhongjheng, Taiwan",2022-03-10,41.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-03-09,34.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-03-08,34.0
-"North/Taipei City/Jhongjheng, Taiwan",2022-03-07,60.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-03-06,58.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-03-05,76.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-03-04,81.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-03-03,95.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-03-02,54.0
-"North/Taipei City/Jhongjheng, Taiwan",2022-03-01,29.0
+"North/Taipei City/Jhongjheng, Taiwan",2022-03-01,58.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-02-28,54.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-02-27,44.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-02-26,36.0
@@ -273,7 +275,6 @@ location,date,aqi
 "North/Taipei City/Jhongjheng, Taiwan",2022-02-10,28.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-02-09,27.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-02-08,26.0
-"North/Taipei City/Jhongjheng, Taiwan",2022-02-07,39.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-02-06,51.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-02-05,36.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-02-04,28.0
@@ -308,7 +309,6 @@ location,date,aqi
 "North/Taipei City/Jhongjheng, Taiwan",2022-01-06,45.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-01-05,37.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-01-04,63.0
-"North/Taipei City/Jhongjheng, Taiwan",2022-01-03,44.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-01-02,44.0
 "North/Taipei City/Jhongjheng, Taiwan",2022-01-01,45.0
 "North/Taipei City/Jhongjheng, Taiwan",2021-12-31,72.0
@@ -489,6 +489,7 @@ location,date,aqi
 "North/Taipei City/Jhongjheng, Taiwan",2021-07-08,53.0
 "North/Taipei City/Jhongjheng, Taiwan",2021-07-07,34.0
 "North/Taipei City/Jhongjheng, Taiwan",2021-07-06,32.0
+"North/Taipei City/Jhongjheng, Taiwan",2021-07-05,51.0
 "North/Taipei City/Jhongjheng, Taiwan",2021-07-04,48.0
 "North/Taipei City/Jhongjheng, Taiwan",2021-07-03,57.0
 "North/Taipei City/Jhongjheng, Taiwan",2021-07-02,40.0
@@ -574,7 +575,6 @@ location,date,aqi
 "North/Taipei City/Jhongjheng, Taiwan",2021-04-08,37.0
 "North/Taipei City/Jhongjheng, Taiwan",2021-04-07,40.0
 "North/Taipei City/Jhongjheng, Taiwan",2021-04-06,50.0
-"North/Taipei City/Jhongjheng, Taiwan",2021-04-05,60.0
 "North/Taipei City/Jhongjheng, Taiwan",2021-04-04,83.0
 "North/Taipei City/Jhongjheng, Taiwan",2021-04-03,90.0
 "North/Taipei City/Jhongjheng, Taiwan",2021-04-02,85.0
