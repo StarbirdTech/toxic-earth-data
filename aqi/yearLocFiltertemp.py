@@ -11,8 +11,11 @@ targetFolder = 'aqi'
 allData = np.array([np.array([0, 0, 0])])
 
 for file in os.listdir(f'{targetFolder}/output-data/'):
-    allData = np.concatenate((allData, pd.read_csv(
-        f'{targetFolder}/output-data/{file}').to_numpy()), axis=0)  # convert to dateTime here
+    try:
+        allData = np.concatenate((allData, pd.read_csv(
+            f'{targetFolder}/output-data/{file}').to_numpy()), axis=0)
+    except:
+        print(f'no data in {file}')
 
 allData = allData[1:]
 
@@ -28,37 +31,39 @@ geocodeData = json.load(open(f'{targetFolder}/geocode/outputData.json'))
 
 df = pd.DataFrame(allData, columns=['location', 'date', 'aqi'])
 
-dates = [['01-01','03-31'],['04-01','06-31'],['7-01','09-30'],['10-01','12-31']]
+dates = [['01-01', '03-31'], ['04-01', '06-31'],
+         ['7-01', '09-30'], ['10-01', '12-31']]
 
-noDataCount =0
+noDataCount = 0
 
 for year in range(2014, 2022):
     yearData = allData[np.where(
         pd.DatetimeIndex(allData[:, 1]).year == year)]
     quarterCount = 1
     for dateRange in dates:
-        mask = (df['date'] > str(year) + '-'+dateRange[0]) & (df['date'] <= str(year)+'-'+dateRange[1])
+        mask = (df['date'] > str(year) + '-'+dateRange[0]
+                ) & (df['date'] <= str(year)+'-'+dateRange[1])
         rangedData = df.loc[mask]
         # print(f'{year}, from {dateRange[0]} to {dateRange[1]}: Quarter {quarterCount}')
         # print(rangedData)
         # print('__________')
         rangedData = rangedData.to_numpy()
-        
+
         for i, info in enumerate(rangedData):
             try:
                 locationData = geocodeData[info[0]]
             except:
-                noDataCount +=1
+                noDataCount += 1
             else:
-                newRow = np.array([locationData['lat'], locationData['lon'], rangedData[i, 2]])
+                newRow = np.array(
+                    [locationData['lat'], locationData['lon'], rangedData[i, 2]])
                 try:
-                    finalOutput = np.row_stack((finalOutput,newRow))
+                    finalOutput = np.row_stack((finalOutput, newRow))
                 except:
                     finalOutput = newRow
                     print('overwrite output ❌')
-                
-                
-        #print(pd.DataFrame(finalOutput))
+
+        # print(pd.DataFrame(finalOutput))
 
         if len(finalOutput[0]) != 0:
             pd.DataFrame(finalOutput).to_csv(
@@ -66,9 +71,9 @@ for year in range(2014, 2022):
 
         quarterCount += 1
 
-    #print(rangedData)
+    # print(rangedData)
 
-#for year in range(2014, 2022):
+# for year in range(2014, 2022):
 #
 #    #? for this year part: feed year plus a stored list of cutoff points for each quarter into a np or pandas between date
 #    #? loop over the above for each element of the cutoff points array and replace location and save
