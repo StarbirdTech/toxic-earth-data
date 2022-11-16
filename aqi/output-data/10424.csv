@@ -8,6 +8,7 @@ location,date,aqi
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-11-10,166.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-11-09,173.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-11-08,165.0
+"Yucheng Environmental Protection Bureau, Yuncheng County",2022-11-07,148.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-11-05,89.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-11-04,106.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-11-03,99.0
@@ -158,7 +159,6 @@ location,date,aqi
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-06-09,86.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-06-08,117.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-06-07,84.0
-"Yucheng Environmental Protection Bureau, Yuncheng County",2022-06-06,100.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-06-05,91.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-06-04,89.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-06-03,121.0
@@ -194,7 +194,7 @@ location,date,aqi
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-05-04,116.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-05-03,107.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-05-02,74.0
-"Yucheng Environmental Protection Bureau, Yuncheng County",2022-05-01,95.0
+"Yucheng Environmental Protection Bureau, Yuncheng County",2022-05-01,62.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-04-30,113.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-04-29,69.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-04-28,86.0
@@ -252,7 +252,7 @@ location,date,aqi
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-03-04,182.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-03-03,116.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-03-02,78.0
-"Yucheng Environmental Protection Bureau, Yuncheng County",2022-03-01,151.0
+"Yucheng Environmental Protection Bureau, Yuncheng County",2022-03-01,41.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-02-28,100.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-02-27,94.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-02-26,152.0
@@ -275,7 +275,6 @@ location,date,aqi
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-02-09,140.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-02-08,125.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-02-07,100.0
-"Yucheng Environmental Protection Bureau, Yuncheng County",2022-02-06,77.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-02-05,124.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-02-04,152.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2022-02-03,113.0
@@ -397,6 +396,7 @@ location,date,aqi
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-10-07,19.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-10-06,14.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-10-05,47.0
+"Yucheng Environmental Protection Bureau, Yuncheng County",2021-10-04,103.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-10-03,126.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-10-02,145.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-10-01,80.0
@@ -475,10 +475,11 @@ location,date,aqi
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-07-08,82.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-07-07,86.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-07-06,79.0
+"Yucheng Environmental Protection Bureau, Yuncheng County",2021-07-05,79.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-07-04,88.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-07-03,75.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-07-02,72.0
-"Yucheng Environmental Protection Bureau, Yuncheng County",2021-07-01,66.0
+"Yucheng Environmental Protection Bureau, Yuncheng County",2021-07-01,73.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-06-30,92.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-06-29,109.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-06-28,103.0
@@ -568,7 +569,7 @@ location,date,aqi
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-04-04,82.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-04-03,92.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-04-02,76.0
-"Yucheng Environmental Protection Bureau, Yuncheng County",2021-04-01,125.0
+"Yucheng Environmental Protection Bureau, Yuncheng County",2021-04-01,70.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-03-31,126.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-03-30,188.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2021-03-29,604.0
@@ -743,6 +744,7 @@ location,date,aqi
 "Yucheng Environmental Protection Bureau, Yuncheng County",2020-10-08,121.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2020-10-07,113.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2020-10-06,109.0
+"Yucheng Environmental Protection Bureau, Yuncheng County",2020-10-05,82.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2020-10-04,132.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2020-10-03,127.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2020-10-02,119.0
@@ -1100,7 +1102,7 @@ location,date,aqi
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-10-04,145.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-10-03,133.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-10-02,101.0
-"Yucheng Environmental Protection Bureau, Yuncheng County",2019-10-01,111.0
+"Yucheng Environmental Protection Bureau, Yuncheng County",2019-10-01,67.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-09-30,125.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-09-29,121.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-09-28,110.0
@@ -1184,13 +1186,14 @@ location,date,aqi
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-07-11,118.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-07-10,95.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-07-09,101.0
+"Yucheng Environmental Protection Bureau, Yuncheng County",2019-07-08,75.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-07-07,79.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-07-06,110.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-07-05,120.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-07-04,119.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-07-03,125.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-07-02,118.0
-"Yucheng Environmental Protection Bureau, Yuncheng County",2019-07-01,92.0
+"Yucheng Environmental Protection Bureau, Yuncheng County",2019-07-01,82.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-06-30,132.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-06-29,112.0
 "Yucheng Environmental Protection Bureau, Yuncheng County",2019-06-28,77.0

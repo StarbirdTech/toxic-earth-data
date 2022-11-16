@@ -454,7 +454,6 @@ location,date,aqi
 "Adelaide CBD, Australia",2018-10-04,7.0
 "Adelaide CBD, Australia",2018-10-03,9.0
 "Adelaide CBD, Australia",2018-10-02,8.0
-"Adelaide CBD, Australia",2018-10-01,5.0
 "Adelaide CBD, Australia",2018-09-30,4.0
 "Adelaide CBD, Australia",2018-09-29,6.0
 "Adelaide CBD, Australia",2018-09-28,7.0
@@ -544,7 +543,7 @@ location,date,aqi
 "Adelaide CBD, Australia",2018-07-05,8.0
 "Adelaide CBD, Australia",2018-07-04,8.0
 "Adelaide CBD, Australia",2018-07-03,6.0
-"Adelaide CBD, Australia",2018-07-01,8.0
+"Adelaide CBD, Australia",2018-07-02,7.0
 "Adelaide CBD, Australia",2018-06-30,9.0
 "Adelaide CBD, Australia",2018-06-29,10.0
 "Adelaide CBD, Australia",2018-06-28,11.0

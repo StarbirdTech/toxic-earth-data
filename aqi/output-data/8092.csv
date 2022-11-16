@@ -27,6 +27,7 @@ location,date,aqi
 "lower Ezerovo, Burgas, Bulgaria",2022-07-07,27.0
 "lower Ezerovo, Burgas, Bulgaria",2022-07-06,36.0
 "lower Ezerovo, Burgas, Bulgaria",2022-07-05,34.0
+"lower Ezerovo, Burgas, Bulgaria",2022-07-04,31.0
 "lower Ezerovo, Burgas, Bulgaria",2022-07-03,34.0
 "lower Ezerovo, Burgas, Bulgaria",2022-07-02,32.0
 "lower Ezerovo, Burgas, Bulgaria",2022-06-30,31.0
@@ -114,8 +115,10 @@ location,date,aqi
 "lower Ezerovo, Burgas, Bulgaria",2022-04-07,28.0
 "lower Ezerovo, Burgas, Bulgaria",2022-04-06,25.0
 "lower Ezerovo, Burgas, Bulgaria",2022-04-05,23.0
+"lower Ezerovo, Burgas, Bulgaria",2022-04-04,22.0
 "lower Ezerovo, Burgas, Bulgaria",2022-04-03,50.0
 "lower Ezerovo, Burgas, Bulgaria",2022-04-02,79.0
+"lower Ezerovo, Burgas, Bulgaria",2022-04-01,50.0
 "lower Ezerovo, Burgas, Bulgaria",2022-03-31,39.0
 "lower Ezerovo, Burgas, Bulgaria",2022-03-30,45.0
 "lower Ezerovo, Burgas, Bulgaria",2022-03-29,51.0
@@ -144,7 +147,6 @@ location,date,aqi
 "lower Ezerovo, Burgas, Bulgaria",2022-03-04,39.0
 "lower Ezerovo, Burgas, Bulgaria",2022-03-03,26.0
 "lower Ezerovo, Burgas, Bulgaria",2022-03-02,23.0
-"lower Ezerovo, Burgas, Bulgaria",2022-03-01,14.0
 "lower Ezerovo, Burgas, Bulgaria",2022-02-28,29.0
 "lower Ezerovo, Burgas, Bulgaria",2022-02-27,39.0
 "lower Ezerovo, Burgas, Bulgaria",2022-02-26,28.0
@@ -368,6 +370,7 @@ location,date,aqi
 "lower Ezerovo, Burgas, Bulgaria",2021-07-08,29.0
 "lower Ezerovo, Burgas, Bulgaria",2021-07-07,27.0
 "lower Ezerovo, Burgas, Bulgaria",2021-07-06,24.0
+"lower Ezerovo, Burgas, Bulgaria",2021-07-05,22.0
 "lower Ezerovo, Burgas, Bulgaria",2021-07-04,25.0
 "lower Ezerovo, Burgas, Bulgaria",2021-07-03,26.0
 "lower Ezerovo, Burgas, Bulgaria",2021-07-02,29.0
@@ -444,6 +447,7 @@ location,date,aqi
 "lower Ezerovo, Burgas, Bulgaria",2021-04-08,41.0
 "lower Ezerovo, Burgas, Bulgaria",2021-04-07,32.0
 "lower Ezerovo, Burgas, Bulgaria",2021-04-06,19.0
+"lower Ezerovo, Burgas, Bulgaria",2021-04-05,31.0
 "lower Ezerovo, Burgas, Bulgaria",2021-04-04,35.0
 "lower Ezerovo, Burgas, Bulgaria",2021-04-03,35.0
 "lower Ezerovo, Burgas, Bulgaria",2021-04-02,35.0
@@ -758,7 +762,6 @@ location,date,aqi
 "lower Ezerovo, Burgas, Bulgaria",2017-07-06,26.0
 "lower Ezerovo, Burgas, Bulgaria",2017-07-05,33.0
 "lower Ezerovo, Burgas, Bulgaria",2017-07-04,33.0
-"lower Ezerovo, Burgas, Bulgaria",2017-07-03,43.0
 "lower Ezerovo, Burgas, Bulgaria",2017-07-02,43.0
 "lower Ezerovo, Burgas, Bulgaria",2017-06-30,39.0
 "lower Ezerovo, Burgas, Bulgaria",2017-06-29,33.0
@@ -790,7 +793,6 @@ location,date,aqi
 "lower Ezerovo, Burgas, Bulgaria",2017-05-31,29.0
 "lower Ezerovo, Burgas, Bulgaria",2017-05-30,35.0
 "lower Ezerovo, Burgas, Bulgaria",2017-05-29,30.0
-"lower Ezerovo, Burgas, Bulgaria",2017-04-01,45.0
 "lower Ezerovo, Burgas, Bulgaria",2017-03-31,46.0
 "lower Ezerovo, Burgas, Bulgaria",2017-03-30,45.0
 "lower Ezerovo, Burgas, Bulgaria",2017-03-29,38.0
@@ -908,6 +910,7 @@ location,date,aqi
 "lower Ezerovo, Burgas, Bulgaria",2016-10-05,30.0
 "lower Ezerovo, Burgas, Bulgaria",2016-10-04,29.0
 "lower Ezerovo, Burgas, Bulgaria",2016-10-02,40.0
+"lower Ezerovo, Burgas, Bulgaria",2016-10-01,45.0
 "lower Ezerovo, Burgas, Bulgaria",2016-09-30,41.0
 "lower Ezerovo, Burgas, Bulgaria",2016-09-29,35.0
 "lower Ezerovo, Burgas, Bulgaria",2016-09-28,31.0

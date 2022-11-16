@@ -8,7 +8,6 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-11-10,155.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-11-09,160.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-11-08,156.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2022-11-07,128.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-11-05,140.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-11-04,101.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-11-03,147.0
@@ -44,7 +43,7 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-10-04,67.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-10-03,77.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-10-02,114.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2022-10-01,113.0
+"Zhouzhi County Environmental Protection Bureau, Xian",2022-10-01,52.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-09-30,67.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-09-29,56.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-09-28,67.0
@@ -159,12 +158,11 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-06-09,67.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-06-08,57.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-06-07,61.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2022-06-06,85.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2022-06-05,61.0
+"Zhouzhi County Environmental Protection Bureau, Xian",2022-06-05,63.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-06-04,72.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-06-03,71.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-06-02,82.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2022-06-01,80.0
+"Zhouzhi County Environmental Protection Bureau, Xian",2022-06-01,72.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-05-31,96.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-05-30,89.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-05-29,78.0
@@ -194,6 +192,7 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-05-05,94.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-05-04,103.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-05-03,106.0
+"Zhouzhi County Environmental Protection Bureau, Xian",2022-05-02,94.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-05-01,72.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-04-30,111.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-04-29,104.0
@@ -221,6 +220,7 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-04-07,81.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-04-06,67.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-04-05,80.0
+"Zhouzhi County Environmental Protection Bureau, Xian",2022-04-04,83.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-04-03,71.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-04-02,108.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-04-01,64.0
@@ -252,6 +252,7 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-03-05,78.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-03-04,102.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-03-03,111.0
+"Zhouzhi County Environmental Protection Bureau, Xian",2022-03-02,95.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-03-01,101.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-02-28,92.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2022-02-27,68.0
@@ -386,10 +387,9 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-10-07,26.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-10-06,32.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-10-05,42.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2021-10-04,110.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-10-03,118.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-10-02,94.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2021-10-01,52.0
+"Zhouzhi County Environmental Protection Bureau, Xian",2021-10-01,75.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-09-30,45.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-09-29,40.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-09-28,48.0
@@ -550,7 +550,6 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-04-08,142.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-04-07,95.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-04-06,102.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2021-04-05,96.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-04-04,62.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-04-03,44.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-04-02,53.0
@@ -635,7 +634,6 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-01-07,108.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-01-06,177.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-01-05,201.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2021-01-04,132.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-01-03,192.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-01-02,171.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2021-01-01,130.0
@@ -729,7 +727,7 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2020-10-04,67.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2020-10-03,55.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2020-10-02,79.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2020-10-01,133.0
+"Zhouzhi County Environmental Protection Bureau, Xian",2020-10-01,52.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2020-09-30,85.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2020-09-29,144.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2020-09-28,147.0
@@ -816,7 +814,6 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2020-07-09,83.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2020-07-08,110.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2020-07-07,96.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2020-07-06,96.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2020-07-05,104.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2020-07-04,90.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2020-07-03,100.0
@@ -1088,7 +1085,7 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2019-10-04,111.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2019-10-03,122.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2019-10-02,125.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2019-10-01,124.0
+"Zhouzhi County Environmental Protection Bureau, Xian",2019-10-01,55.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2019-09-30,93.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2019-09-29,92.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2019-09-28,94.0
@@ -1172,7 +1169,6 @@ location,date,aqi
 "Zhouzhi County Environmental Protection Bureau, Xian",2019-07-11,47.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2019-07-10,56.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2019-07-09,56.0
-"Zhouzhi County Environmental Protection Bureau, Xian",2019-07-08,59.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2019-07-07,105.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2019-07-06,60.0
 "Zhouzhi County Environmental Protection Bureau, Xian",2019-07-05,57.0

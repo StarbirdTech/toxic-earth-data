@@ -9,6 +9,7 @@ location,date,aqi
 "Kirkeveien, Oslo, Norway",2018-04-05,23.0
 "Kirkeveien, Oslo, Norway",2018-04-04,19.0
 "Kirkeveien, Oslo, Norway",2018-04-03,22.0
+"Kirkeveien, Oslo, Norway",2018-04-02,25.0
 "Kirkeveien, Oslo, Norway",2018-04-01,26.0
 "Kirkeveien, Oslo, Norway",2018-03-31,23.0
 "Kirkeveien, Oslo, Norway",2018-03-30,23.0
@@ -183,7 +184,8 @@ location,date,aqi
 "Kirkeveien, Oslo, Norway",2017-10-05,17.0
 "Kirkeveien, Oslo, Norway",2017-10-04,21.0
 "Kirkeveien, Oslo, Norway",2017-10-03,24.0
-"Kirkeveien, Oslo, Norway",2017-10-01,37.0
+"Kirkeveien, Oslo, Norway",2017-10-02,45.0
+"Kirkeveien, Oslo, Norway",2017-10-01,21.0
 "Kirkeveien, Oslo, Norway",2017-09-30,31.0
 "Kirkeveien, Oslo, Norway",2017-09-29,46.0
 "Kirkeveien, Oslo, Norway",2017-09-28,45.0
@@ -312,9 +314,8 @@ location,date,aqi
 "Kirkeveien, Oslo, Norway",2017-04-06,24.0
 "Kirkeveien, Oslo, Norway",2017-04-05,29.0
 "Kirkeveien, Oslo, Norway",2017-04-04,33.0
-"Kirkeveien, Oslo, Norway",2017-04-03,36.0
 "Kirkeveien, Oslo, Norway",2017-04-02,27.0
-"Kirkeveien, Oslo, Norway",2017-04-01,19.0
+"Kirkeveien, Oslo, Norway",2017-04-01,16.0
 "Kirkeveien, Oslo, Norway",2017-03-31,19.0
 "Kirkeveien, Oslo, Norway",2017-03-30,17.0
 "Kirkeveien, Oslo, Norway",2017-03-29,25.0
@@ -705,7 +706,7 @@ location,date,aqi
 "Kirkeveien, Oslo, Norway",2014-10-04,27.0
 "Kirkeveien, Oslo, Norway",2014-10-03,21.0
 "Kirkeveien, Oslo, Norway",2014-10-02,30.0
-"Kirkeveien, Oslo, Norway",2014-10-01,16.0
+"Kirkeveien, Oslo, Norway",2014-10-01,58.0
 "Kirkeveien, Oslo, Norway",2014-09-30,53.0
 "Kirkeveien, Oslo, Norway",2014-09-29,53.0
 "Kirkeveien, Oslo, Norway",2014-09-28,39.0
