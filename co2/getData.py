@@ -19,10 +19,12 @@ geocodeData = json.load(open(f'{targetFolder}/geocode/outputData.json'))
 
 for year in range(1750, 2021):
     yearData = data[np.where(data[:, 1] == year)]
+    bigPollute = yearData[np.argmax(yearData[:,2]),0]
+    print(bigPollute)
     for i, info in enumerate(yearData):
         yearData[i, 1] = geocodeData[info[0]]['lon']
         yearData[i, 0] = geocodeData[info[0]]['lat']
     pd.DataFrame(yearData).to_csv(
-        f'co2/output-data/{year}.csv', index=False, header=["lat", "lon", "co2"])
+        f'co2/final-output-data/co2-{year}-{bigPollute}.csv', index=False, header=["lat", "lon", "co2"])
 
 print('✔  All Data Saved')
