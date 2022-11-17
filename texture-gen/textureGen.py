@@ -70,7 +70,7 @@ for file in os.listdir(f'{target}/final-output-data/'):
         #    #                     max((data-min(data))))+min(data)[i]))
         x = myMap(data[i, 1], -180, 180, 0, 800)
         y = myMap(data[i, 0], 90, -90, 0, 400)
-        fill = myMap(scaleLog(data[i, 2], dataMin, dataMax, 10),dataMin,dataMax,10,255)
+        fill = myMap(scaleLog(data[i, 2], dataMin, dataMax, 10),dataMin,dataMax,100,255)
         print(fill)
         draw.point((x, y), int(fill))
 
