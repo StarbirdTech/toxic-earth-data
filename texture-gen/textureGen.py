@@ -73,7 +73,7 @@ for file in os.listdir(f'{target}/final-output-data/'):
         fill = myMap(scaleLog(data[i, 2], dataMin, dataMax, 10),dataMin,dataMax,100,255)
         print(fill)
         #draw.rounded_rectangle((x-1, y-1,x+1,y+1), radius=50, fill=int(fill))
-        draw.point((x, y), int(fill))
+        draw.point((x, y), int(255))
 
     #    # draw.point((myMap(data[i][1], -180, 180, 0, 800), myMap(data[i][0], 90, -90,
     #    # 0, 400)), fill=int(myMap((data[i][2]-np.min(co2data))**2) / (np.max(co2data)+np.min(co2data)), 0, np.max(co2data), 0, 255))
