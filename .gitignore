@@ -1,4 +1,3 @@
 .vscode/
-aqi/input-data/
-fire/input-data/
 */__pycache__/
+fire/input-data/
